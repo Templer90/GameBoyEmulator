@@ -1,0 +1,178 @@
+{
+    "name": "Keyboard",
+    "maps": [
+        {
+            "name": "MainMap",
+            "id": "a3c05be7-9ae1-4cc4-98d5-16be5c7edecc",
+            "actions": [
+                {
+                    "name": "Up",
+                    "type": "Value",
+                    "id": "852272da-5ad1-4915-b353-86dbf81df2fe",
+                    "expectedControlType": "Key",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "Down",
+                    "type": "Value",
+                    "id": "0325bce9-9e24-4538-8cde-5f2840b7bb40",
+                    "expectedControlType": "Key",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "Left",
+                    "type": "Value",
+                    "id": "280b8e11-94d2-4a28-9173-1c2573713c0b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "Right",
+                    "type": "Value",
+                    "id": "775b90b6-5446-4b49-adea-87e17ed39a4b",
+                    "expectedControlType": "Key",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "A",
+                    "type": "Value",
+                    "id": "0127cf3d-1fe4-4143-a77e-f8ac035e65a4",
+                    "expectedControlType": "Key",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "B",
+                    "type": "Value",
+                    "id": "89c5f781-6504-48aa-9b50-13c3fac91d0b",
+                    "expectedControlType": "Key",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "Start",
+                    "type": "Value",
+                    "id": "4740df77-437d-4b66-b74c-5764eb2cdcf7",
+                    "expectedControlType": "Key",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "Select",
+                    "type": "Value",
+                    "id": "7285c5ec-07b0-4e71-a02f-d43845102b6c",
+                    "expectedControlType": "Key",
+                    "processors": "",
+                    "interactions": "Press"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f5dc624e-93ea-4615-817b-300f315d04ae",
+                    "path": "w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e11da826-2de2-4ab6-8011-e4f3bc0d082b",
+                    "path": "s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1307e8fd-4c67-4e0c-b4d8-da81dace2cab",
+                    "path": "a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b34a7b1f-59f9-4426-b79f-f961fde02057",
+                    "path": "d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bb863b0a-c024-4158-a1e4-fb5890bf1af9",
+                    "path": "k",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "A",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f66d3f74-7fc8-405c-b28d-2cc841122366",
+                    "path": "l",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "B",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "90c44593-19ec-4da2-a7b4-8e15deb9a23f",
+                    "path": "i",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0a6f44e0-eef1-455e-a368-4fd5fd9d47d6",
+                    "path": "o",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Select",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "New control scheme",
+            "bindingGroup": "New control scheme",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
